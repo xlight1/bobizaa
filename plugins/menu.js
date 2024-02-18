@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'OBITO BOT ♥',
 body: "أول بوت واتساب في العالم العربي من قبل ايوب💖",
-thumbnailUrl: 'https://telegra.ph/file/c641dcf2c234c05db8ab3.mp4',
+thumbnailUrl: 'https://telegra.ph/file/db352452db58a094157cd.jpg',
 sourceUrl: 'https://instagram.com/AYOUB_OTAKUM',
 mediaType: 1,
 renderLargerThumbnail: true
